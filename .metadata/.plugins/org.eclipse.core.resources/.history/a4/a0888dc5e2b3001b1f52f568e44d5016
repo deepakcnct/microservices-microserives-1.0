@@ -1,0 +1,7 @@
+spring.applicatio.name=limits-service
+spring.config.import=optional:configserver:http://localhost:8888
+
+#limits-service.minimum=2
+#limits-service.maximum=998
+
+#spring.cloud.config.uri=http://localhost:8888
