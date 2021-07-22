@@ -1,9 +1,11 @@
 applyBackground=false
 approved.defs.file.last.changed.time=1617837191000
-configurationInstallLocation=/C\:/Users/Deepak/Documents/Eclipse/eclipse/
+codetogether.announce.displayed=true
+configurationInstallLocation=/D\:/Profsnl/IDE/spring-tool-suite-3.9.12.RELEASE-e4.15.0-win32-x86_64/sts-bundle/sts-3.9.12.RELEASE/
 eclipse.preferences.version=1
 iconcolormode=primary
-last.download.attempt.time=1620900483436
-lastConfiguration=1620950215960
-newinstall=true
+last.download.attempt.time=1621907316561
+lastConfiguration=1621907301755
+newinstall=false
+showWelcomeDialog=false
 workbench.theme=Dark Gray

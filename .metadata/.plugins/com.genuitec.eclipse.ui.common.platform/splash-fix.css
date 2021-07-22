@@ -1,7 +1,7 @@
 #org-eclipse-ui-splash-progressText {
-  color: #ffffff;
+  color: #33302D;
 }
 
 #org-eclipse-ui-splash-progressPart {
-  background-image: url('me-custom:/platform:/plugin/org.eclipse.epp.package.jee/splash.bmp');
+  background-image: url('me-custom:/platform:/plugin/org.springsource.sts/splash.bmp');
 }

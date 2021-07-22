@@ -2,8 +2,12 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
-			<item value="D:\Profsnl\Workspaces\BackEnd\Java_wrkspace\Eclipse_workspaces\MicroServices\In28Minutes_udemy\v2_wrkspace\spring-cloud-config-server"/>
-			<item value="D:\Profsnl\Workspaces\BackEnd\Java_wrkspace\Eclipse_workspaces\MicroServices\In28Minutes_udemy\v2_wrkspace\limit-service"/>
+			<item value="D:\Profsnl\Workspaces\BackEnd\Java_wrkspace\Sts_workspaces\MicroServices\In28Minutes_udemy\v2_wrkspace\naming-server"/>
+			<item value="D:\Profsnl\Workspaces\BackEnd\Java_wrkspace\Sts_workspaces\MicroServices\In28Minutes_udemy\v2_wrkspace\api-gateway"/>
+			<item value="D:\Profsnl\Workspaces\BackEnd\Java_wrkspace\Sts_workspaces\MicroServices\In28Minutes_udemy\v2_wrkspace\currency-conversion-service"/>
+			<item value="D:\Profsnl\Workspaces\BackEnd\Java_wrkspace\Sts_workspaces\MicroServices\In28Minutes_udemy\v2_wrkspace\currency-exchange-service"/>
+			<item value="D:\Profsnl\Workspaces\BackEnd\Java_wrkspace\Sts_workspaces\MicroServices\In28Minutes_udemy\v2_wrkspace\spring-cloud-config-server"/>
+			<item value="D:\Profsnl\Workspaces\BackEnd\Java_wrkspace\Sts_workspaces\MicroServices\In28Minutes_udemy\v2_wrkspace\limit-service"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -15,7 +19,75 @@
 		</list>
 	</section>
 	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
 	</section>
 	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
 	</section>
 </section>

@@ -18,4 +18,34 @@ with that of Flyway and Liquibase. If you want to use data.sql to populate a sch
  While mixing database initialization technologies is not recommended, this will also allow you to use a schema.sql script to build upon a 
  Hibernate-created schema before it’s populated via data.sql.
 
-=======================================================
+====================git repo location on localhost===================================
+/d/Profsnl/Workspaces/BackEnd/Java_wrkspace/Eclipse_workspaces/MicroServices/In28Minutes_udemy/v2_wrkspace
+/d/Profsnl/git_repos/git-localconfig-repo
+====================Api Gateway===================================
+Api gateway functionality:
+Authentication
+Authorization
+Login
+
+Previously spring cloud uses zuul as api gateway.
+Now spring cloud uses spring cloud gateway.
+
+After runningg api gateway application, uri will be:
+http://laptop-hg6o695v:8001/currency-exchange/from/USD/to/INR
+http://laptop-hg6o695v:8000/currency-exchange/from/USD/to/INR
+http://laptop-hg6o695v:8003/currency-exchange/from/USD/to/INR
+
+http://laptop-hg6o695v:8100/currency-conversion-feign/from/EUR/to/INR/quantity/1000
+
+All the uri:
+http://localhost:8080/limits
+http://localhost:8888/limits-service/default
+http://localhost:8000/currency-exchange/from/USD/to/INR
+http://localhost:8001/currency-exchange/from/USD/to/INR
+http://localhost:8100/currency-conversion-feign/from/EUR/to/INR/quantity/1000
+http://www.localhost:8100/currency-conversion/from/USD/to/INR/quantity/10
+http://localhost:8000/h2-console/login.do?jsessionid=a2582033199173cfb6acf0cc65769421
+http://localhost:8761/ - Eureka
+http://laptop-hg6o695v:8100/currency-conversion-feign/from/EUR/to/INR/quantity/1000
+=======================================================================
+

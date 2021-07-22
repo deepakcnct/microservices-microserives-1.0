@@ -14,7 +14,7 @@ public class LimitsController {
 	@Autowired
 	private Configuration configuration;
 	
-	@GetMapping("/limits")
+	@GetMapping("/limits-service")
 	public Limits reterieveLimits() {
 		return new Limits(configuration.getMinimum(),configuration.getMaximum());
 	}
